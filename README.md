@@ -38,19 +38,19 @@ Currently, I'm a **UI/UX & Product Designer at Google Developer Groups on Campus
 ### Frontend Development
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,tailwind" alt="Frontend technologies" />
 </div>
 
 ### Backend & Programming
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=c,c#,nodejs,express,python,java,postgres" alt="Backend technologies" />
 </div>
 
 ### Tools & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,wordpress" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,wordpress,figma,adobexd,antigravity,cursor,claude,canva,affinity" alt="Development tools" />
 </div>
 
 ---
@@ -111,40 +111,6 @@ I'm always interested in collaborating, learning, and working on meaningful digi
 
   **Design with purpose. Build with intention. Engineer with empathy.**
 
-</div>
-
-## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
 </div>
 
 ---
