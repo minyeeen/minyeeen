@@ -50,7 +50,7 @@ Currently, I'm a **UI/UX & Product Designer at Google Developer Groups on Campus
 ### Tools & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,wordpress,figma,xd,gcp,aws,arduino,discord" alt="Development tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,wordpress,figma,xd,ai,gcp,aws,arduino,discord" alt="Development tools and platforms" />
 </div>
 
 ---
