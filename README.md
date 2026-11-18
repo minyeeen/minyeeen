@@ -16,14 +16,19 @@ Check out my [portfolio](https://portfolio-arien.vercel.app/).
   <summary>⚡ GitHub Statistics</summary>
   <br/>
 
-  <a href="https://github.com/yenyan-code">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yenyan-code&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="Yen's GitHub Stats" />
-  </a>
+  <div align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blueberry&hide_border=true"
+      height="180"
+      alt="GitHub Stats"
+    />
 
-  <a href="https://github.com/yenyan-code">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenyan-code&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
-  </a>
-
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=blueberry&hide_border=true"
+      height="180"
+      alt="Top Languages"
+    />
+  </div>
 </details>
 
 ---
