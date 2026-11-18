@@ -42,7 +42,7 @@ I'm always interested in collaborating, learning, and working on meaningful digi
 
 ---
 
-<p align="center">
+<p align="left">
   <b>Design with purpose. Build with intention. Engineer with empathy.</b>
 </p>
 
