@@ -5,32 +5,11 @@
 I enjoy combining design thinking and frontend development to create intuitive, accessible, and meaningful digital experiences.
 
 Check out my [portfolio](https://portfolio-arien.vercel.app/).
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yenyan-code&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yenyan-code)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,cs,cpp,postgres,dotnet,git,github,vscode,figma,ps,ai,xd,aws,gcp,arduino)](https://skillicons.dev)
     
-### 👨‍💻 About Me
-
-- 🎨 UI/UX & Product Designer at **GDG on Campus – Cebu Technological University**
-- 🧩 Interested in UX Engineering and Design-to-Code workflows.
-- 💻 Building modern web applications with clean, maintainable code.
-- 🖌️ Designing interfaces and prototypes using Figma.
-- 🤖 Exploring AI-powered digital experiences.
-- 🌱 Constantly learning, experimenting, and improving.
-
-### 🚀 Featured Projects
-
-**🎨 UX/UI & Product Design**
-
-A collection of design projects focused on user experience, interface design, usability, and user-centered product development.
-
-**Tools:** Figma
-
-**💻 RCWheels – Systems Integration**
-
-A web-based business management system focused on integrating business workflows, approval processes, and database-driven operations.
-
-**Technologies:** Next.js, TypeScript, PostgreSQL, Zod
-
-*Status: Active Development.*
-
 ---
 
 <details>
