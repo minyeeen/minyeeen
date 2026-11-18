@@ -13,22 +13,10 @@ Check out my [portfolio](https://portfolio-arien.vercel.app/).
 ---
 
 <details>
-  <summary>⚡ GitHub Statistics</summary>
-  <br/>
-
-  <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blueberry&hide_border=true"
-      height="180"
-      alt="GitHub Stats"
-    />
-
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=blueberry&hide_border=true"
-      height="180"
-      alt="Top Languages"
-    />
-  </div>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=minyeeen&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyeeen&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 ---
