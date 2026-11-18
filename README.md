@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-**I'm Yen** — an aspiring UX Engineer, UI/UX & Product Designer, and Frontend Developer with a background in Information Technology.
+**I'm Yen** — an aspiring UX Engineer, UI/UX & Product Designer, and an Information Technology student.
 
 I enjoy combining design thinking and frontend development to create intuitive, accessible, and meaningful digital experiences.
 
