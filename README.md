@@ -8,6 +8,7 @@ Check out my [portfolio](https://portfolio-arien.vercel.app/).
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yenyan-code&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yenyan-code)
 
+# Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,cs,cpp,postgres,dotnet,git,github,vscode,figma,ps,ai,xd,aws,gcp,arduino)](https://skillicons.dev)
     
 ---
