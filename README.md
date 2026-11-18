@@ -33,17 +33,6 @@ A web-based business management system focused on integrating business workflows
 
 ---
 
-### 🌱 Currently Exploring
-
-- UX Engineering
-- Frontend Development
-- User-Centered Product Design
-- Responsive Web Design
-- Accessibility & Usability
-- AI-Powered User Experiences
-
----
-
 <details>
   <summary>⚡ GitHub Statistics</summary>
   <br/>
