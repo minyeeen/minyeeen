@@ -44,7 +44,7 @@ Currently, I'm a **UI/UX & Product Designer at Google Developer Groups on Campus
 ### Backend & Programming
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,nodejs,express,python,java,postgres,postman" alt="Backend and programming technologies" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,nodejs,express,python,java,postgres,postman,dotnet" alt="Backend and programming technologies" />
 </div>
 
 ### Tools & Platforms
