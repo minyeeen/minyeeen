@@ -5,11 +5,6 @@
 I enjoy combining design thinking and frontend development to create intuitive, accessible, and meaningful digital experiences.
 
 Check out my [portfolio](https://portfolio-arien.vercel.app/).
-
-<div align="center">
-  <a href="https://yenyan-code.github.io/">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3200&pause=900&center=true&vCenter=true&width=760&lines=UI%2FUX+%26+Product+Designer+;Frontend+Developer;BSIT+Student" alt="Typing SVG" /></a>
-</div>
     
 ### 👨‍💻 About Me
 
