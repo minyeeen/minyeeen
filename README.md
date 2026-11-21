@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-<h3> **I'm Yen** — an aspiring UX Engineer, UI/UX & Product Designer, and an Information Technology student. </h3>
+<h3> I'm Yen — an aspiring UX Engineer, UI/UX & Product Designer, and an Information Technology student. </h3>
 
 I enjoy combining design thinking and frontend development to create intuitive, accessible, and meaningful digital experiences.
 
